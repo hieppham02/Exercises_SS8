@@ -1,0 +1,43 @@
+body {
+    color: #9b9b9b;
+    font-family: Helvetica,sans-serif;
+    font-size: 16px;
+    line-height: 1.8;
+}
+
+
+.grap {
+    background-color: rgb(208, 208, 208);
+    width: 701px;
+    height: 385px;
+    margin-left: 30px;
+    position: absolute;
+    
+}
+
+.list1 {
+    display: flex;
+    width: 700px;
+    border-bottom-style: dotted;
+    border-color:red;
+}   
+
+.list2, .list3 {
+    display: flex;
+    width: 700px;
+    border-bottom-style: dotted;
+    border-color:red;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+ul {
+    margin: 30px;
+    list-style-type: none;
+    position: relative;
+}
+
+h3 {
+    color: black;
+}
+

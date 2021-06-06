@@ -1,0 +1,51 @@
+.bai1 {
+    margin: 30px;
+}
+
+body {
+    background-color: #f2f3f5;
+    font-family: Helvetica,sans-serif;
+    font-size: 16px;
+    line-height: 1.8;
+    zoom: 1.25;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.bai1 h1 {
+    text-align: center;
+    margin-bottom: 40px;
+}
+.head_text {
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 60px;
+    text-align: center;
+    color: #999;;
+}
+
+.bai1 .list li .content1 {
+    padding: 12px 15px;
+}
+
+.bai1 .list li h3  {
+    color: #1f1f1f;
+    font-size: 24px;
+    margin-bottom: 3px;
+}
+
+.bai1 .list li {
+    background-color: #fff;
+    margin-right: 30px;
+    min-height: 420px;
+    width: 360px;
+}
+
+.bai1 .list {
+    display: flex;
+    justify-content: center;
+    /* can giua block*/
+}
+
