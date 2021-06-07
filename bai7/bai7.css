@@ -1,0 +1,39 @@
+h2 {
+    text-align: center;
+    margin: 32px;
+}
+
+p {
+    margin: 20px;
+    line-height: 2.2;
+}
+
+.pr1 {
+    margin-top: 0;
+}
+
+.all {
+    display: flex;
+    justify-content: center;
+}
+
+.left {
+    padding: 32px;
+    stroke: #ccc;
+    box-shadow: 0 0 20px 1px #ddd;
+    color: #676767;
+    float: left;
+    width: 400px;
+}
+
+.right {
+    width: 667px;
+    padding-left: 32px;
+    float: right;
+}
+
+h3 {
+    margin-bottom: 20px;
+}
+
+
