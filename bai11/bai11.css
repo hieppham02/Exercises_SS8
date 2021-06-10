@@ -1,0 +1,69 @@
+* {
+    padding: 0;
+    margin: 0;
+    line-height: 1.8;
+    color: rgb(94, 94, 94);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.wrap {
+    background-color: #000;
+    width: 1247px;
+    height: 447px;
+    border: 10px solid #fff;
+    margin: auto;
+    position: relative;
+}
+
+.footer {
+    background-color: rgb(21, 21, 21);
+    height: 93px;
+    width: 100%;
+    position: absolute;
+    top: 333px
+}
+
+input {
+    border: none;
+    background-color: rgb(21, 21, 21);
+    height: 45px;
+    width: 282px;
+    
+}
+
+.input {
+    display: flex;
+    margin-top: 20px;
+}
+
+.text {
+    font-size: 15px;
+    line-height: 1.34;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.div-1, .div-2, .div-3, .div-4 {
+    margin: 80px;
+}
+
+span {
+    background-color: rgb(127, 146, 207);
+    padding: 12.5px 63px;
+    position: absolute;
+    bottom: 21.5px;
+    left: 70px;
+}
+
+.copyright {
+    position: absolute;
+    right: 70px;
+    bottom: 32.5px;
+}
